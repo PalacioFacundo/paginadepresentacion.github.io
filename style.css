@@ -1,0 +1,218 @@
+body {
+	
+	background-color: #5F9EA0;
+
+	
+	
+
+}
+
+
+
+ header  {
+    display: flex;
+justify-content: center;
+margin-top:20px; 
+
+
+
+    
+    
+	
+	}
+ img{
+ 	padding-top: 40px;
+ 	
+ 	
+ 	
+ 	
+ }
+ 	
+
+ 
+ .nav   {
+ 	display: flex;
+ 	text-align: center;
+ 	justify-content:center;
+    
+    
+ 	position: fixed;
+
+ 	
+ 	 
+ 	 width: 96%;
+
+ 	  top: 0px;
+ 	  margin-bottom: 100px;
+
+
+ 	 
+ 	 border 3px;
+     background: rgb(184, 197, 206);
+ 	 
+
+ 	 
+ }
+
+
+ 
+ h2 {
+ 	margin-top: 180px;
+ 	margin-bottom: 10px;
+ 	text-align: center;
+ 	color: #8B008B;
+ 	font-family: sans-serif;
+ }
+ p{
+ 	text-align: center;
+    
+ 	border-style: outset;
+ 	border-width: 2px;
+    border-color: #0d60ab;
+    background-color: #6495ED;
+
+    margin-right: 20px;
+    margin-left: 20px;
+ 	padding: 10px;
+ 	padding-top: 12px;
+ 	font-family: sans-serif;
+
+ 	font-size: 18px;
+
+ 	
+ }
+ .marca-tip {
+ 	
+ 	
+    text-align: center;
+ 	font-size: 18px;
+ 	width: 200px;
+ 	height: 20px;
+ 	margin:auto;
+ 	margin-top: 50px;
+
+
+ }
+ .flex{
+display: flex;
+align-content: center;
+justify-content:space-around;
+
+flex-wrap: wrap;
+
+
+
+
+}
+img{
+
+	width: 300px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+    margin-top: 40px;
+	margin-bottom: 14px;
+
+
+
+}
+
+.span span {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+    border: 2px solid #8B0000;
+    width: 100px;
+    margin: auto;
+    margin-top: 48px;
+    font-family:sans-serif; 
+	font-size: 18px;
+	}
+
+.span-colores {
+  display: flex;
+  text-align: center;
+ justify-content: space-around;
+ margin-top: 78px;
+ border: 2px solid black;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ margin-left: 130px;
+ margin-right: 130px;
+ font-size: 18px;
+
+ background-color: #929292; 
+}
+
+.col {
+    color: #1c295d;
+}
+
+.color {
+     color: #0D60AB;
+}
+
+.black {
+     color: #1d1D1S;
+}
+
+
+.usocorrecto  {
+	 
+   display: flex;
+   
+
+   justify-content: center;
+  
+
+}
+
+.apli {
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	flex-wrap: wrap;
+
+}
+
+ h3{ 
+ 	text-align: center;
+ 	align-content: center;
+ 	border: 2px solid black;
+
+ 	width: 101px;
+     margin: auto;
+     margin-top: 27px;
+     margin-bottom: 8px;
+}
+ .formulario label {
+     
+display: flex;
+
+padding: 18px x;
+
+
+ }
+
+ 
+footer{
+	
+	margin: auto;
+    padding-left: 30px;
+    padding-bottom: 4px;
+	border: 1px solid;
+	width: 310px;
+	background: #8FBC8F;
+}
+
+
+
+
+	
+ 
+
+ 
+
+
+    
+ 
